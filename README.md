@@ -21,6 +21,6 @@ Pet Recommendation Website! Rate your preferences and algorithms will match you 
 
 ## Running Locally
 
-# cd server, npm install, node server.js
+### cd server, npm install, node server.js
 
-# cd client, npm install, npm start
+### cd client, npm install, npm start
